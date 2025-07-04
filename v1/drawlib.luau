@@ -974,3 +974,4 @@ getgenv().cleardrawcache = function()
 		drawing:Remove()
 	end
 end
+warn("Drawing registered. Called from v1/drawlib.")
